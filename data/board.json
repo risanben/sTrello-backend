@@ -1,0 +1,129 @@
+[
+  {
+    "_id": "Wl6sv",
+    "name": "Talking Doll",
+    "price": 10,
+    "lable": [
+      "Doll",
+      "Electronic toys"
+    ],
+    "createdAt": 1662817831040,
+    "inStock": true,
+    "reviews": [
+      {
+        "reviewerName": "Jhon",
+        "rate": 2,
+        "date": 1662817831040,
+        "reviewDesc": "For babys only",
+        "_id": "SaQVR"
+      },
+      {
+        "reviewerName": "Dany",
+        "rate": 1,
+        "date": 1662817831040,
+        "reviewDesc": "Please don't...",
+        "_id": "evIZ9"
+      }
+    ]
+  },
+  {
+    "_id": "dF2SB",
+    "name": "Teddy Bear",
+    "price": 79,
+    "lable": [
+      "Animal",
+      "Doll"
+    ],
+    "createdAt": 1662817831040,
+    "inStock": true,
+    "reviews": [
+      {
+        "reviewerName": "Rina",
+        "rate": 4,
+        "date": 1662817831040,
+        "reviewDesc": "So cute",
+        "_id": "N7Ck5"
+      }
+    ]
+  },
+  {
+    "_id": "wJlnj",
+    "name": "Hungarian Cube",
+    "price": 79,
+    "lable": [
+      "Puzzle"
+    ],
+    "createdAt": 1662817831040,
+    "inStock": true,
+    "reviews": [
+      {
+        "reviewerName": "Shon",
+        "rate": 3,
+        "date": 1662817831040,
+        "reviewDesc": "Nice",
+        "_id": "kiitY"
+      },
+      {
+        "reviewerName": "Ben",
+        "rate": 1,
+        "date": 1662817831040,
+        "reviewDesc": "Boring",
+        "_id": "Nymhv"
+      }
+    ]
+  },
+  {
+    "_id": "tlngr",
+    "name": "Spider-Man",
+    "price": 200,
+    "lable": [
+      "Action figures",
+      "Educational toys"
+    ],
+    "createdAt": 1662817831040,
+    "inStock": false,
+    "reviews": [
+      {
+        "reviewerName": "Dona",
+        "rate": 4,
+        "date": 1662817831040,
+        "reviewDesc": "Cool",
+        "_id": "XMGj9"
+      },
+      {
+        "reviewerName": "Ron",
+        "rate": 5,
+        "date": 1662817831040,
+        "reviewDesc": "WOW",
+        "_id": "DW7co"
+      },
+      {
+        "reviewerName": "Mona",
+        "rate": 2,
+        "date": 1662817831040,
+        "reviewDesc": "Amazing",
+        "_id": "fYlG0"
+      }
+    ]
+  },
+  {
+    "_id": "Oj0HZ",
+    "name": "Truck",
+    "price": 355,
+    "lable": [
+      "Construction toys",
+      "Electronic toys"
+    ],
+    "createdAt": 1662817831040,
+    "inStock": false,
+    "reviews": [
+      {
+        "reviewerName": "Jasmin",
+        "rate": 4,
+        "date": 1662817831040,
+        "reviewDesc": "Not for boys only!",
+        "_id": "5T5zE"
+      }
+    ]
+  }
+]

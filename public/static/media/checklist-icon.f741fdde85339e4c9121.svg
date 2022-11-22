@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="14px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L16 0L16 16L0 16L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="svg+xml;base64,PHN2ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBjbGFzcz0ic3ZnLWljb24iIGhlaWdodD0iMWVtIiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5">
+    <path d="M0 0L16 0L16 16L0 16L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M5.26659 6.73341L4.33334 7.66666L7.33334 10.6667L14 4L13.0667 3.06675L7.33334 8.76659L5.26659 6.73341L5.26659 6.73341ZM12.6667 12.6667L3.33334 12.6667L3.33334 3.33334L10 3.33334L10 2L3.33334 2C2.59994 2 2 2.59994 2 3.33334L2 12.6667C2 13.4001 2.59994 14 3.33334 14L12.6667 14C13.4001 14 14 13.4001 14 12.6667L14 7.33334L12.6667 7.33334L12.6667 12.6667L12.6667 12.6667Z" id="Shape" fill="#5E6C84" fill-rule="evenodd" stroke="#FFFFFF" stroke-opacity="0" stroke-width="0" />
+    </g>
+  </g>
+</svg>
