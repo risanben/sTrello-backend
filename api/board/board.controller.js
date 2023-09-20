@@ -15,6 +15,7 @@ async function getBoards(req, res) {
         const boards = await boardService.query(filterBy)
         res.send(boards)
     } catch (err) {
+        console.log('err:', err)
         res.status(500).send({ err: 'Failed to get boards' })
     }
 }
